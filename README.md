@@ -1,0 +1,1 @@
+In this project, I analyzed the Stack Overflow Developer Survey dataset to answer key questions about technologies and jobs. I explored the data, cleaned and formatted it, and used Plotly to visualize insights. The analysis uncovered correlations between technologies and jobs, relationships between jobs, and technology usage frequencies.
